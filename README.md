@@ -18,7 +18,7 @@ Examples:
 Flags:                                   
   -h, --help          help for portscanner
   -p, --port string   (Required) Between 0 and 65535.
-  					  Use ',' or '~' to scan multiple ports. See above examples.
+                      Use ',' or '~' to scan multiple ports. See above examples.
 ```
 
 ## TODO
