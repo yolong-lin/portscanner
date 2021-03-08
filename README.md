@@ -1,7 +1,5 @@
 # Portscanner
 
-> The repository is for practice.
-
 ## Example
 
 ![example](example.png)
