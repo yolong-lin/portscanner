@@ -4,7 +4,7 @@
 
 ## Example
 
-![image-20210309004607549](D:\golang\github.com\yolong-lin\portscanner\example.png)
+![example](example.png)
 
 ## Help
 
